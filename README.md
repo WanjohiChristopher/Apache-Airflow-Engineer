@@ -2,6 +2,10 @@
 # Apache-Airflow
 
  This repo covers Apache airflow operators,DAGS,Scheduling of DAGS and More to be Added
+ 
+ We have schedules a job from Talend which is an ETL tool .
+ 
+ In Talend we have migrated data from sql server to Potgres using SQL
 
 Example of File sensor
 
